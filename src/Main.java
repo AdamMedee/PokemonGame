@@ -6,7 +6,7 @@
    and in random succession battles multiple other
    pokemon that they did not choose until either the
    user has all their pokemon faint or they
-   defeat all enemy pokemon.
+   defeat all enemy pokemon. 
 */
 
 import java.util.*;
